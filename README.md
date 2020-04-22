@@ -1,6 +1,6 @@
 # TS-treinamento
 
-Nossa aplicação permitirá o cadastro de novas negociações exibindo cada negociação cadastrada para o usuário através de uma tabela.
+Nossa aplicação em TYPESCRIPT permitirá o cadastro de novas negociações exibindo cada negociação cadastrada para o usuário através de uma tabela.
 
 #### Pré-requisito
 
